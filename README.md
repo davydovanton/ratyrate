@@ -10,6 +10,8 @@ A Ruby Gem that wrap the functionality of [jQuery Raty](https://github.com/wbote
 
 ## Repository
 This is a fork against the repository [muratguzel/letsrate](https://github.com/muratguzel/letsrate), the aim of this fork is to refresh the development in this Gem with a new scope and features, so please if you have any pull request issue it here, also I imported all the issues in the original repo.
+Also this repository have some PR from origin repo:
+  - https://github.com/wazery/ratyrate/pull/52
 
 ## Changelog from the main repository
 1. Exposed a lot of jQuery Raty plugin [features](http://wbotelhos.com/raty)
