@@ -1,12 +1,12 @@
-require "bundler/gem_tasks"
+require 'bundler/gem_tasks'
 
-desc "Bundle the gem"
+desc 'Bundle the gem'
 task :bundle do
-  sh('bundle install')
+  sh 'bundle install'
   sh 'gem build *.gemspec'
   sh 'gem install *.gem'
   sh 'rm *.gem'
 end
 
 task(:default).clear
-task :default => :bundle
+task default: :bundle
