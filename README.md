@@ -28,9 +28,9 @@ Also this repository have some PR from origin repo:
 
 ## TODO
 1. Write RSpec tests for this Gem
+2. Refactoring
 3. Add option to show the number of users who gave rates
-4. Add a share helper to Facebook, Twitter
-5. Force refresh after rating when `disable_after_rate` and `imdb_avg` options is set to true.
+4. Force refresh after rating when `disable_after_rate` and `imdb_avg` options is set to true.
 
 ## Detailed view of the new features
 ![Detailed view of the new featurews](https://dl.dropboxusercontent.com/u/71605080/RatyRate%20Features.png)
